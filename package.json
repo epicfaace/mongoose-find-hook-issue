@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-find-hook-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb-memory-server": "^2.9.1",
+    "mongoose": "^5.4.2"
+  }
+}
